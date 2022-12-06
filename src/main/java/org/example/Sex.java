@@ -1,5 +1,5 @@
 package org.example;
 
 public enum Sex {
-    MAN, WOMAN, NONBINARY
+    MALE, FEMALE, NONBINARY
 }
