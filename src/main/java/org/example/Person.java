@@ -10,7 +10,7 @@ import lombok.ToString;
 @ToString
 
 public class Person {
-    private String name;
-    private int age;
-    private Sex sex;
+    private final String name;
+    private final int age;
+    private final Sex sex;
 }
